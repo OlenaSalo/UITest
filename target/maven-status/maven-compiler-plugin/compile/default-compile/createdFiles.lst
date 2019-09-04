@@ -1,0 +1,15 @@
+proxy\Button.class
+busnes_object\MessageBO.class
+utils\LocatingCustomElementListHandler.class
+proxy\TextInput.class
+utils\IElement.class
+page\MailList.class
+page\LoginPage.class
+utils\Element.class
+page\PasswordPage.class
+busnes_object\LoginBO.class
+page\BasePage.class
+utils\CustomFieldDecorator.class
+page\EmailPopUp.class
+page\MainPage.class
+utils\WrapperFactory.class
